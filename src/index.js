@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 
-const API_KEY = 'AIzaSyANSfLh_-TgYGov1XexRBIR3XxAsOwEMAk';
+const API_KEY = '';
 
 //Create a new component. This component should produce some HTML
 class App extends Component {
